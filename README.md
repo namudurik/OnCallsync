@@ -15,6 +15,8 @@ Read and execute in this order:
 4. `founder-pack/03-pilot-offer-and-outreach.md`
 5. `founder-pack/04-pricing-test-sheet.csv`
 6. `founder-pack/05-mvp-scope-and-build-plan.md`
+7. `founder-pack/06-first-pass-target-list-30-profiles.csv`
+8. `founder-pack/07-week-1-outreach-tracker.csv`
 
 ## Immediate next action
 

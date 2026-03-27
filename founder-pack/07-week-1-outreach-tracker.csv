@@ -1,0 +1,66 @@
+day,date,block_time,activity,target_profile_id,company_name,segment,persona,channel,message_variant,status,response_type,response_summary,call_booked_yn,call_datetime,next_action,next_action_date,owner,notes
+Monday,,08:00-09:00,Build target account queue,,,,,,,,,,,,,,Founder,Finalize and prioritize 30 profiles by fit score
+Monday,,09:00-10:30,Outbound batch 1,P01,,Seed-Series A B2B SaaS,Engineering Manager,Email,Template_1,Not sent,,,,Follow up if no reply,+2d,Founder,
+Monday,,09:00-10:30,Outbound batch 1,P02,,Seed-Series A B2B SaaS,Head of Engineering,Email,Template_2,Not sent,,,,Follow up if no reply,+2d,Founder,
+Monday,,09:00-10:30,Outbound batch 1,P03,,Seed-Series A B2B SaaS,SRE Lead,LinkedIn,Template_1,Not sent,,,,Follow up if no reply,+2d,Founder,
+Monday,,09:00-10:30,Outbound batch 1,P04,,Seed-Series A B2B SaaS,Staff Engineer,Email,Template_1,Not sent,,,,Follow up if no reply,+2d,Founder,
+Monday,,09:00-10:30,Outbound batch 1,P05,,Seed-Series A B2B SaaS,VP Engineering,Email,Template_2,Not sent,,,,Follow up if no reply,+2d,Founder,
+Monday,,10:30-11:00,Follow-up prep,,,,,,,,,,,,,,Founder,Prepare 2-day follow-up messages for no-reply prospects
+Monday,,11:00-12:00,Warm intros outreach,P06,,Seed-Series A B2B SaaS,Engineering Manager,Warm intro,Intro_Ask_Template,Not sent,,,,Check intro status,+2d,Founder,
+Monday,,11:00-12:00,Warm intros outreach,P07,,Seed-Series A B2B SaaS,Head of Platform,Warm intro,Intro_Ask_Template,Not sent,,,,Check intro status,+2d,Founder,
+Monday,,13:00-14:30,Outbound batch 2,P08,,Seed-Series A B2B SaaS,Engineering Manager,Email,Template_1,Not sent,,,,Follow up if no reply,+2d,Founder,
+Monday,,13:00-14:30,Outbound batch 2,P09,,Seed-Series A B2B SaaS,CTO,LinkedIn,Template_2,Not sent,,,,Follow up if no reply,+2d,Founder,
+Monday,,13:00-14:30,Outbound batch 2,P10,,Seed-Series A B2B SaaS,SRE Lead,Email,Template_1,Not sent,,,,Follow up if no reply,+2d,Founder,
+Monday,,14:30-15:00,Daily review,,,,,,,,,,,,,,Founder,Track sent count, replies, and booked calls
+Tuesday,,08:30-09:00,Inbox triage,,,,,,,,,,,,,,Founder,Respond to all positives within 30 minutes
+Tuesday,,09:00-10:30,Outbound batch 3,P11,,Growth-stage SaaS,Engineering Manager,Email,Template_1,Not sent,,,,Follow up if no reply,+2d,Founder,
+Tuesday,,09:00-10:30,Outbound batch 3,P12,,Growth-stage SaaS,Support Engineering Manager,Email,Template_2,Not sent,,,,Follow up if no reply,+2d,Founder,
+Tuesday,,09:00-10:30,Outbound batch 3,P13,,Growth-stage SaaS,VP Engineering,LinkedIn,Template_1,Not sent,,,,Follow up if no reply,+2d,Founder,
+Tuesday,,10:30-11:30,Interview slot 1,,,,,,,,,,,,,,Founder,Run script from 02-customer-interview-script.md
+Tuesday,,11:30-12:00,Post-call notes,,,,,,,,,,,,,,Founder,Capture pains, pricing, and pilot signal
+Tuesday,,13:00-14:00,Follow-up wave 1,P01,,Seed-Series A B2B SaaS,Engineering Manager,Email,Follow_Up_D+2,Not sent,,,,Set second follow-up if needed,+3d,Founder,
+Tuesday,,13:00-14:00,Follow-up wave 1,P02,,Seed-Series A B2B SaaS,Head of Engineering,Email,Follow_Up_D+2,Not sent,,,,Set second follow-up if needed,+3d,Founder,
+Tuesday,,13:00-14:00,Follow-up wave 1,P03,,Seed-Series A B2B SaaS,SRE Lead,LinkedIn,Follow_Up_D+2,Not sent,,,,Set second follow-up if needed,+3d,Founder,
+Tuesday,,14:00-15:00,Interview slot 2,,,,,,,,,,,,,,Founder,Run pricing willingness ask explicitly
+Tuesday,,15:00-15:30,Daily review,,,,,,,,,,,,,,Founder,Update confidence scores for active prospects
+Wednesday,,08:30-09:00,Inbox triage,,,,,,,,,,,,,,Founder,Prioritize prospects with explicit pain
+Wednesday,,09:00-10:30,Outbound batch 4,P14,,Growth-stage SaaS,SRE Manager,Email,Template_2,Not sent,,,,Follow up if no reply,+2d,Founder,
+Wednesday,,09:00-10:30,Outbound batch 4,P15,,Growth-stage SaaS,Head of Engineering,Email,Template_1,Not sent,,,,Follow up if no reply,+2d,Founder,
+Wednesday,,09:00-10:30,Outbound batch 4,P16,,Growth-stage SaaS,Platform Engineering Manager,LinkedIn,Template_1,Not sent,,,,Follow up if no reply,+2d,Founder,
+Wednesday,,10:30-11:30,Interview slot 3,,,,,,,,,,,,,,Founder,Probe last scheduling incident and impact
+Wednesday,,11:30-12:00,Post-call notes,,,,,,,,,,,,,,Founder,Log top 3 pains and timeline to buy
+Wednesday,,13:00-14:00,Follow-up wave 2,P04,,Seed-Series A B2B SaaS,Staff Engineer,Email,Follow_Up_D+2,Not sent,,,,Set second follow-up if needed,+3d,Founder,
+Wednesday,,13:00-14:00,Follow-up wave 2,P05,,Seed-Series A B2B SaaS,VP Engineering,Email,Follow_Up_D+2,Not sent,,,,Set second follow-up if needed,+3d,Founder,
+Wednesday,,13:00-14:00,Follow-up wave 2,P06,,Seed-Series A B2B SaaS,Engineering Manager,Warm intro,Follow_Up_D+2,Not sent,,,,Set second follow-up if needed,+3d,Founder,
+Wednesday,,14:00-15:00,Interview slot 4,,,,,,,,,,,,,,Founder,Ask direct pilot close questions
+Wednesday,,15:00-15:30,Daily review,,,,,,,,,,,,,,Founder,Compare response rate by template/channel
+Thursday,,08:30-09:00,Inbox triage,,,,,,,,,,,,,,Founder,Move hot leads to scheduling first
+Thursday,,09:00-10:30,Outbound batch 5,P17,,Growth-stage SaaS,Incident Commander,Email,Template_2,Not sent,,,,Follow up if no reply,+2d,Founder,
+Thursday,,09:00-10:30,Outbound batch 5,P18,,Growth-stage SaaS,Engineering Manager,LinkedIn,Template_1,Not sent,,,,Follow up if no reply,+2d,Founder,
+Thursday,,09:00-10:30,Outbound batch 5,P19,,Growth-stage SaaS,Director of Engineering,Email,Template_1,Not sent,,,,Follow up if no reply,+2d,Founder,
+Thursday,,10:30-11:30,Interview slot 5,,,,,,,,,,,,,,Founder,Confirm budget owner and approval path
+Thursday,,11:30-12:00,Post-call notes,,,,,,,,,,,,,,Founder,Update pricing sheet right after call
+Thursday,,13:00-14:00,Follow-up wave 3,P07,,Seed-Series A B2B SaaS,Head of Platform,Warm intro,Follow_Up_D+2,Not sent,,,,Set second follow-up if needed,+3d,Founder,
+Thursday,,13:00-14:00,Follow-up wave 3,P08,,Seed-Series A B2B SaaS,Engineering Manager,Email,Follow_Up_D+2,Not sent,,,,Set second follow-up if needed,+3d,Founder,
+Thursday,,13:00-14:00,Follow-up wave 3,P09,,Seed-Series A B2B SaaS,CTO,LinkedIn,Follow_Up_D+2,Not sent,,,,Set second follow-up if needed,+3d,Founder,
+Thursday,,14:00-15:00,Interview slot 6,,,,,,,,,,,,,,Founder,Prioritize active pain over feature requests
+Thursday,,15:00-15:30,Daily review,,,,,,,,,,,,,,Founder,Select top 5 pilot-likely accounts
+Friday,,08:30-09:00,Inbox triage,,,,,,,,,,,,,,Founder,Fast replies to keep momentum
+Friday,,09:00-10:00,Outbound batch 6,P20,,Growth-stage SaaS,SRE Lead,Email,Template_1,Not sent,,,,Follow up if no reply,+2d,Founder,
+Friday,,09:00-10:00,Outbound batch 6,P21,,Infra and DevTools,Head of Platform,Email,Template_2,Not sent,,,,Follow up if no reply,+2d,Founder,
+Friday,,09:00-10:00,Outbound batch 6,P22,,Infra and DevTools,SRE Manager,LinkedIn,Template_1,Not sent,,,,Follow up if no reply,+2d,Founder,
+Friday,,10:00-11:00,Interview slot 7,,,,,,,,,,,,,,Founder,Run standard script and pilot close
+Friday,,11:00-12:00,Pilot ask block,,,,,,,,,,,,,,Founder,Send pilot proposal to top 3 qualified accounts
+Friday,,13:00-14:00,Follow-up wave 4,P10,,Seed-Series A B2B SaaS,SRE Lead,Email,Follow_Up_D+3,Not sent,,,,Send final bump if no reply,+5d,Founder,
+Friday,,13:00-14:00,Follow-up wave 4,P11,,Growth-stage SaaS,Engineering Manager,Email,Follow_Up_D+2,Not sent,,,,Send second follow-up,+3d,Founder,
+Friday,,13:00-14:00,Follow-up wave 4,P12,,Growth-stage SaaS,Support Engineering Manager,Email,Follow_Up_D+2,Not sent,,,,Send second follow-up,+3d,Founder,
+Friday,,14:00-15:00,Week review and scoreboard,,,,,,,,,,,,,,Founder,Summarize metrics and adjust next week plan
+Friday,,15:00-15:30,Weekly KPI snapshot,,,,,,,,,,,,,,Founder,Targets: 40+ outbound, 10+ positives, 5+ interviews, 1-2 pilot asks
+Backlog,,Any,Additional prospect outreach,P23,,Infra and DevTools,Engineering Manager,Email,Template_1,Not sent,,,,Queue for overflow blocks,,Founder,
+Backlog,,Any,Additional prospect outreach,P24,,Infra and DevTools,Staff SRE,LinkedIn,Template_2,Not sent,,,,Queue for overflow blocks,,Founder,
+Backlog,,Any,Additional prospect outreach,P25,,Infra and DevTools,Director Engineering,Email,Template_1,Not sent,,,,Queue for overflow blocks,,Founder,
+Backlog,,Any,Additional prospect outreach,P26,,Infra and DevTools,Head of Engineering,Email,Template_2,Not sent,,,,Queue for overflow blocks,,Founder,
+Backlog,,Any,Additional prospect outreach,P27,,Infra and DevTools,VP Engineering,LinkedIn,Template_1,Not sent,,,,Queue for overflow blocks,,Founder,
+Backlog,,Any,Additional prospect outreach,P28,,Infra and DevTools,Engineering Manager,Email,Template_1,Not sent,,,,Queue for overflow blocks,,Founder,
+Backlog,,Any,Additional prospect outreach,P29,,Infra and DevTools,SRE Lead,Email,Template_2,Not sent,,,,Queue for overflow blocks,,Founder,
+Backlog,,Any,Additional prospect outreach,P30,,Infra and DevTools,Platform Engineer,LinkedIn,Template_1,Not sent,,,,Queue for overflow blocks,,Founder,

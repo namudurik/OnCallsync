@@ -11,6 +11,8 @@ Use this in order:
 3. `03-pilot-offer-and-outreach.md`
 4. `04-pricing-test-sheet.csv`
 5. `05-mvp-scope-and-build-plan.md`
+6. `06-first-pass-target-list-30-profiles.csv`
+7. `07-week-1-outreach-tracker.csv`
 
 ## Success criteria for this phase
 
